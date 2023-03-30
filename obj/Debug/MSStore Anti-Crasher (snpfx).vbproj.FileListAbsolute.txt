@@ -1,0 +1,24 @@
+C:\Users\ionut\source\repos\MSStore Anti-Crasher (snpfx)\obj\Debug\MSStore Anti-Crasher (snpfx).vbproj.AssemblyReference.cache
+C:\Users\ionut\source\repos\MSStore Anti-Crasher (snpfx)\obj\Debug\MSStore Anti-Crasher (snpfx).vbproj.SuggestedBindingRedirects.cache
+C:\Users\ionut\source\repos\MSStore Anti-Crasher (snpfx)\obj\Debug\MSStore_Anti_Crasher__snpfx_.Resources.resources
+C:\Users\ionut\source\repos\MSStore Anti-Crasher (snpfx)\obj\Debug\MSStore Anti-Crasher (snpfx).vbproj.GenerateResource.cache
+C:\Users\ionut\source\repos\MSStore Anti-Crasher (snpfx)\obj\Debug\MSStore Anti-Crasher (snpfx).vbproj.CoreCompileInputs.cache
+C:\Users\ionut\source\repos\MSStore Anti-Crasher (snpfx)\obj\Debug\MSStore_Anti_Crasher__snpfx_.mainform.resources
+C:\Users\ionut\source\repos\MSStore Anti-Crasher (snpfx)\obj\Debug\MSStore Anti-Crasher (snpfx).exe
+C:\Users\ionut\source\repos\MSStore Anti-Crasher (snpfx)\obj\Debug\MSStore Anti-Crasher (snpfx).xml
+C:\Users\ionut\source\repos\MSStore Anti-Crasher (snpfx)\obj\Debug\MSStore Anti-Crasher (snpfx).pdb
+C:\Users\ionut\source\repos\MSStore Anti-Crasher (snpfx)\bin\Debug\MSStore Anti-Crasher (snpfx).exe.config
+C:\Users\ionut\source\repos\MSStore Anti-Crasher (snpfx)\bin\Debug\MSStore Anti-Crasher (snpfx).exe
+C:\Users\ionut\source\repos\MSStore Anti-Crasher (snpfx)\bin\Debug\MSStore Anti-Crasher (snpfx).pdb
+C:\Users\ionut\source\repos\MSStore Anti-Crasher (snpfx)\bin\Debug\MSStore Anti-Crasher (snpfx).xml
+C:\Users\ionut\source\repos\MSStore Anti-Crasher (snpfx)\bin\Debug\System.Buffers.xml
+C:\Users\ionut\source\repos\MSStore Anti-Crasher (snpfx)\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ionut\source\repos\MSStore Anti-Crasher (snpfx)\bin\Debug\System.Memory.xml
+C:\Users\ionut\source\repos\MSStore Anti-Crasher (snpfx)\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ionut\source\repos\MSStore Anti-Crasher (snpfx)\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ionut\source\repos\MSStore Anti-Crasher (snpfx)\obj\Debug\MSStore Anti-Crasher (snpfx).vbproj.Fody.CopyLocal.cache
+C:\Users\ionut\source\repos\MSStore Anti-Crasher (snpfx)\obj\Debug\MSStore Anti-Crasher (snpfx).vbproj.Fody.RuntimeCopyLocal.cache
+C:\Users\ionut\source\repos\MSStore Anti-Crasher (snpfx)\obj\Debug\MSStore Anti-Crasher (snpfx).vbproj.CopyComplete
+C:\Users\ionut\source\repos\MSStore Anti-Crasher (snpfx)\bin\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\ionut\source\repos\MSStore Anti-Crasher (snpfx)\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\ionut\source\repos\MSStore Anti-Crasher (snpfx)\obj\Debug\MSStore Anti-Crasher (snpfx).vbproj.ResolveComReference.cache

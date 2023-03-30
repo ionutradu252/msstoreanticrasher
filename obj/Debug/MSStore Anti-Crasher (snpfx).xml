@@ -1,0 +1,141 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MSStore Anti-Crasher (snpfx)
+</name>
+</assembly>
+<members>
+<member name="T:MSStore_Anti_Crasher__snpfx_.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:MSStore_Anti_Crasher__snpfx_.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:MSStore_Anti_Crasher__snpfx_.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:MSStore_Anti_Crasher__snpfx_.My.Resources.Resources.cmdico">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MSStore_Anti_Crasher__snpfx_.My.Resources.Resources.ds4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MSStore_Anti_Crasher__snpfx_.My.Resources.Resources.ds4dark">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MSStore_Anti_Crasher__snpfx_.My.Resources.Resources.DS4Windows">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:MSStore_Anti_Crasher__snpfx_.My.Resources.Resources.fh3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MSStore_Anti_Crasher__snpfx_.My.Resources.Resources.fh3dark">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MSStore_Anti_Crasher__snpfx_.My.Resources.Resources.fh4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MSStore_Anti_Crasher__snpfx_.My.Resources.Resources.fh4dark">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MSStore_Anti_Crasher__snpfx_.My.Resources.Resources.fh5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MSStore_Anti_Crasher__snpfx_.My.Resources.Resources.fh5dark">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MSStore_Anti_Crasher__snpfx_.My.Resources.Resources.images">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MSStore_Anti_Crasher__snpfx_.My.Resources.Resources.msfs">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MSStore_Anti_Crasher__snpfx_.My.Resources.Resources.msfsdark">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MSStore_Anti_Crasher__snpfx_.My.Resources.Resources.msstoreicon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+</summary>
+</member>
+<member name="P:MSStore_Anti_Crasher__snpfx_.My.Resources.Resources.msstoreicon1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MSStore_Anti_Crasher__snpfx_.My.Resources.Resources.newexplorer">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="P:MSStore_Anti_Crasher__snpfx_.My.Resources.Resources.newexplorerico">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MSStore_Anti_Crasher__snpfx_.My.Resources.Resources.newexplorericodark">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MSStore_Anti_Crasher__snpfx_.My.Resources.Resources.sot">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MSStore_Anti_Crasher__snpfx_.My.Resources.Resources.sotdark">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MSStore_Anti_Crasher__snpfx_.My.Resources.Resources.supporticon">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MSStore_Anti_Crasher__snpfx_.My.Resources.Resources.taskmgrdark">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MSStore_Anti_Crasher__snpfx_.My.Resources.Resources.tskmgr">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
